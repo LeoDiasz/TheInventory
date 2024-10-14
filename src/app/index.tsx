@@ -1,5 +1,5 @@
 import React from "react"
-import "@/styles/global.css"
+import "@/app/styles/global.css"
 import { Link } from "expo-router"
 import { StatusBar, Text, View } from "react-native"
 
